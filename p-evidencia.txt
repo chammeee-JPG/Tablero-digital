@@ -1,0 +1,8 @@
+Hola, buenos dias.
+¿A que area deseas sacar un turno?
+- psiquiatra
+- pediatra
+- cardiologia
+(Selecciono psiquiatra)
+Turnos disponibles: 5
+Turnos antes que usted: 3
